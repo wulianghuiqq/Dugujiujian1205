@@ -4,5 +4,6 @@ public class DugujiujianApp {
 
     public static void main(String[] args) {
         System.out.println("hello dugujiujian ........");
+        System.out.println("hello2");
     }
 }
